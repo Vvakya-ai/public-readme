@@ -1,6 +1,6 @@
-# Vvakya.ai - A Smarter Way to Research, Write, and Collaborate
+# Vakya.ai - A Smarter Way to Research, Write, and Collaborate
 
-Vvakya.ai is an early-stage AI-powered platform that reimagines how individuals and teams engage with research, technical content, and academic writing. Our mission is to bridge the gap between raw ideas and polished outputs.
+Vakya.ai is an early-stage AI-powered platform that reimagines how individuals and teams engage with research, technical content, and academic writing. Our mission is to bridge the gap between raw ideas and polished outputs.
 ---
 
 ## Vision
@@ -14,5 +14,5 @@ Our long-term goal is to become the trusted Platform for research creators—fro
 AcademAI is in active development and is not yet publicly released. Some core features are undergoing testing, and limited-access pilots will be launched soon.
 ---
 
-© 2025 Vvakya.ai. All rights reserved.
+© 2025 Vakya.ai. All rights reserved.
 Use of this project’s code or branding is subject to approval and license agreement.
